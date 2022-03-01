@@ -10,7 +10,7 @@
     "main.b34af7a9.js.map": "./static/js/main.b34af7a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc12ef22.css",
-    "static/js/main.b34af7a9.js"
+    "./static/css/main.dc12ef22.css",
+    "./static/js/main.b34af7a9.js"
   ]
 }
