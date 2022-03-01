@@ -18,8 +18,9 @@
   font-family: var(--font-family);
   font-weight: 800;
   font-size: 18px;
-  line-height: 75px;
+  line-height: 25px;
   letter-spacing: -0.04em;
+  margin: 1rem 0;
 
   color: #ffffff;
 }
